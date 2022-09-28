@@ -3,8 +3,8 @@
 
 ## Tech Stack
 
--Express
--mongoose
+- Express
+- mongoose
 ## Feature
 <p>---> CRUD  </p>
 <p>---> Filter by title</p>
